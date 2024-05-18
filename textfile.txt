@@ -1,0 +1,45 @@
+BOXICON: https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css 
+CLOSE BUTTON: <i class='bx bx-x'></i> 
+CLOCK: <i class='bx bx-time-five'></i>
+BOOK:  <i class='bx bx-book-open'></i>
+MENU: <i class='bx bx-food-menu'></i>
+HEART: <i class='bx bx-heart' ></i>
+ENVELOPE: <i class='bx bx-envelope' ></i>
+SHARE: <i class='bx bx-share-alt' ></i>
+RIGHT ARROW: <i class='bx bx-right-arrow-alt'></i>
+HOME: <i class='bx bx-home' ></i>
+PHONE: <i class='bx bx-phone-call' ></i>
+FACEBOOK: <i class='bx bxl-facebook'></i>
+TWITTER: <i class='bx bxl-twitter' ></i>
+INSTAGRAM: <i class='bx bxl-instagram-alt' ></i>
+LINKEDIN: <i class='bx bxl-linkedin' ></i>
+
+GOOGLE FONT:
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Lato&family=Forum&family=Allura&family=Spectral:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+ROOT:
+--bg-color: #081b29;
+--sec-bg-color: #112e42;
+--text-color: #ededed;
+--main-color: #00abf0;
+--br-sm: 30px 0px 30px 0px;
+--box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.3);
+--width-circle: 150vw;
+--radius: calc(100vw / 6);
+
+
+
+
+welcome to bella cucins, where we invite you to experience
+the authentic flavors of italt in a charming and cozy atmosphere.
+Our passion for traditional italian cuisine drives everything we do,
+from sourcing the freshest ingredients to crafting each dish with care and
+expertise.
+
+at bella cucina, we believe in the power of food to bring 
+people together.
+
+
+Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+Vel, corrupti excepturi quod expedita, ut recusandae sint esse alias consequuntur cupiditate dolores 
+pariatur eaque eius aut ratione saepe voluptates dignissimos quaerat.
